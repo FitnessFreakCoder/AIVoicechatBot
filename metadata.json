@@ -1,0 +1,7 @@
+{
+  "name": "EchoVoice AI",
+  "description": "A React-based voice chat application. Records voice messages, processes them using AI (simulating a backend), and returns intelligent responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
